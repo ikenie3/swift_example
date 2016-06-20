@@ -1,1 +1,3 @@
 # swift_example
+
+Xibファイルでレイアウトを定義したUIViewControllerでTopLayoutGuideを使う。
